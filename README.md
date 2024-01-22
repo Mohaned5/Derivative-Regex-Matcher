@@ -1,4 +1,4 @@
-# Derivative Regular Expression Matcher
+# Brzozowski Regular Expression Pattern Matcher
 
 Welcome to the Scala Derivative Regular Expression Matcher, a powerful tool for pattern matching based on derivatives of regular expressions. This matcher allows you to efficiently search, edit, and analyze text patterns using the principles of regular expressions.
 
